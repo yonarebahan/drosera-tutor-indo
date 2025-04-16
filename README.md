@@ -45,7 +45,8 @@ source ~/.bashrc
 ```
 # ✅ Tahap 4 — Deploy Trap
 1. Clone & setup project
-"email_kamu@example.com" ganti email github biarin isi" "
+"email_kamu@example.com" ganti emailmu
+
 "username_kamu" ganti username github
 ```
 mkdir my-drosera-trap
