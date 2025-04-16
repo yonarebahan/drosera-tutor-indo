@@ -90,6 +90,8 @@ pastikan :
 private_trap = true
 whitelist = ["0xALAMAT_OPERATOR"] isi alamat addresmu (bukan privatekey)
 2. Update config trap:
+
+# tunggu 15 - 10 menit sebelum lanjut ke step selanjutnya
 ```
 DROSERA_PRIVATE_KEY=PRIVATE_KEY_MU drosera apply
 ```
