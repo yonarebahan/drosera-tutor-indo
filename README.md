@@ -1,3 +1,5 @@
+![Alt Text](https://github.com/yonarebahan/drosera-tutorial-indo/blob/main/Untitled.png)
+
 # ✅ Tahap 1 — Persiapan Awal (System Requirements & Dependencies)
 1. Update sistem dan install dependencies:
 ```
